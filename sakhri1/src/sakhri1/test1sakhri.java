@@ -4,6 +4,5 @@ public class test1sakhri {
 
 	
 	int a;
-	
-	
+int c;
 }

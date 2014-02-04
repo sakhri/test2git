@@ -5,4 +5,5 @@ public class test2sakhri {
 	
 	
 	int b;
+	int d;
 }
